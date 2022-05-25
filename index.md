@@ -1,8 +1,10 @@
 ## Anastassiou lab at Cedars-Sinai Medical Center
 
-You can use the [editor on GitHub](https://github.com/anastassiou-team/ateam_website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Anastassiou Laboratory studies how the molecular and cellular composition of neurons translates to their phenotype and how these properties combine in brain circuits to produce function or, in the case of disease, dysfunction.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Anastassiou Lab has a broad background in multimodal cellular data (electrophysiology, anatomy, transcriptomics) and the development of state-of-the-art computational workflows (statistical learning, optimization and simulation) to understand cellular activity in behavior and disease. Uniquely, this work includes human brain tissue, both as a byproduct from surgery as well as from model systems such as human pluripotent stem cells. The Anastassiou Lab successfully pursues collaborations with clinicians to translate cellular and circuit findings to gain a better understanding of diseases such as epilepsy and Parkinson’s disease, as well as development of improved therapies.
+
+The Anastassiou lab is affiliated with the [Cedars-Sinai Neurosurgery Department](https://www.cedars-sinai.edu/research/departments-institutes/neurosurgery.html), [Neurology Department](https://www.cedars-sinai.edu/research/departments-institutes/neurology.html), [Center of Neural Sciences and Medicine](https://www.cedars-sinai.edu/research/areas/neural-science.html) and the [Regenerative Medicine Institute](https://www.cedars-sinai.edu/research/departments-institutes/regenerative-medicine.html).
 
 ### Markdown
 
