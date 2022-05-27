@@ -1,69 +1,21 @@
-# What we do...
+Complex behaviors depend on the recruitment and cooperation of many types of cells in the brain. Technological advances offer an increasing ability to identify and separate between cell types that result in a more elaborate view of the composition of brain circuits. Yet, how these cell types contribute to high-level functions in vivo remains largely unknown. This is particularly true in humans, where little is known about how the various types of cells differ in their properties, how they behave in the living brain and how they support cognition. The same applies for cellular dysfunction in brain diseases such as epilepsy and Alzheimer’s disease—while we recognize that cells are impacted by disease (some more than others), it is unclear how these changes affect brain circuitry as a whole.
 
-Complex behaviors depend on the recruitment and cooperation of many types of cells in the brain. Technological advances offer an 
-increasing ability to identify and separate between cell types that result in a more elaborate view of the composition of brain 
-circuits. Yet, how these cell types contribute to high-level functions in vivo remains largely unknown. This is particularly 
-true in humans, where little is known about how the various types of cells differ in their properties, how they behave in the 
-living brain and how they support cognition. The same applies for cellular dysfunction in brain diseases such as epilepsy and 
-Alzheimer’s disease—while we recognize that cells are impacted by disease (some more than others), it is unclear how these 
-changes affect brain circuitry as a whole.
-
-The goal of the Anastassiou Lab is to identify and characterize specific cell types in the human brain that critically contribute 
-to cognition and brain diseases. In a second step, we look at how the observed changes in the activity or general properties of 
-these cell types impact overall brain activity. To do so we use a spectrum of theoretical, computational and experimental methods 
-that offer insights into the identity and observed activity of brain cells. Such elaborate understanding of cellular properties 
-in the living human brain will allow us to better understand healthy brain processing, novel disease mechanisms and, hopefully, 
+The goal of the Anastassiou Lab is to identify and characterize specific cell types in the human brain that critically contribute to cognition and brain diseases. In a second step, we look at how the observed changes in the activity or general properties of these cell types impact overall brain activity. To do so we use a spectrum of theoretical, computational and experimental methods that offer insights into the identity and observed activity of brain cells. Such elaborate understanding of cellular properties in the living human brain will allow us to better understand healthy brain processing, novel disease mechanisms and, hopefully, 
 treatments.
 
 ## Multimodal Cellular Data Integration and Reconciliation via Optimization on High-Performance Computing Architectures
 
-Identifying the cell types constituting brain circuits is a fundamental question in neuroscience and motivates the generation of 
-taxonomies based on electrophysiological, morphological and molecular single-cell properties. Establishing the correspondence a
-cross data modalities and understanding the underlying principles has proven challenging. Biorealistic computational models offer 
-the ability to probe cause-and-effect and have historically been used to explore phenomena at the single-neuron level. The 
-Anastassiou Lab introduced a computational optimization workflow used for the generation and evaluation of thousands of 
-single-neuron models with active conductances. These models were based on hundreds of in vitro electrophysiological experiments 
-followed by morphological reconstruction from the mouse visual cortex. We show that despite biological variability and 
-optimization complexity, the generated models are robust representations and realizations of individual experiments as well as 
-cortical cell types as defined via cellular electrophysiology or transcriptomics. We also show that differences in specific 
-conductances predicted from the models reflect differences in gene expression in excitatory and inhibitory subclasses supported 
-by single-cell RNA sequencing. The differences in model conductances, in turn, explain electrophysiological differences observed 
-between the cortical subclasses. Such large-scale computational effort reconciles single-cell data modalities that define cell 
-types and enables causal relationships to be examined.
+Identifying the cell types constituting brain circuits is a fundamental question in neuroscience and motivates the generation of taxonomies based on electrophysiological, morphological and molecular single-cell properties. Establishing the correspondence a cross data modalities and understanding the underlying principles has proven challenging. Biorealistic computational models offer the ability to probe cause-and-effect and have historically been used to explore phenomena at the single-neuron level. The Anastassiou Lab introduced a computational optimization workflow used for the generation and evaluation of thousands of single-neuron models with active conductances. These models were based on hundreds of in vitro electrophysiological experiments followed by morphological reconstruction from the mouse visual cortex. We show that despite biological variability and optimization complexity, the generated models are robust representations and realizations of individual experiments as well as cortical cell types as defined via cellular electrophysiology or transcriptomics. We also show that differences in specific conductances predicted from the models reflect differences in gene expression in excitatory and inhibitory subclasses supported 
+by single-cell RNA sequencing. The differences in model conductances, in turn, explain electrophysiological differences observed between the cortical subclasses. Such large-scale computational effort reconciles single-cell data modalities that define cell types and enables causal relationships to be examined.
 
-The Anastassiou Lab used this approach recently on human brain tissue excised from epilepsy patients undergoing surgery. In data 
-from such resected cortical tissue, the computational framework allowed identification and distillation of biomarkers into three 
-ion channels shown to be causal for increased seizure propensity with disease progression. Using the same methodology, we are 
-looking at brain cancer (gliomas, glioblastoma multiforme) as well as neurodegenerative disorders in model systems such as human 
-pluripotent stem cells.
+The Anastassiou Lab used this approach recently on human brain tissue excised from epilepsy patients undergoing surgery. In data from such resected cortical tissue, the computational framework allowed identification and distillation of biomarkers into three ion channels shown to be causal for increased seizure propensity with disease progression. Using the same methodology, we are looking at brain cancer (gliomas, glioblastoma multiforme) as well as neurodegenerative disorders in model systems such as human pluripotent stem cells.
 
 ## Next-Generation Technologies for Monitoring Physiology and Pathophysiology Activity in Humans
-plot
 
-Our knowledge about the fine-scale electrophysiology of human brain circuits has principally been inferred from animal models. 
-Unlike in animals, hitherto, the hardware and software tools for large-scale, high-fidelity depth recordings along the entire 
-cortical depth remained unavailable in humans, limiting the understanding of brain processing in human health and disease. 
-Before resection, neurosurgeons have direct access to the exposed brain circuit, offering the unique opportunity to directly 
-measure electrophysiology signals and neuronal activity from the human cortex. Yet, despite this unique opportunity, 
-understanding how different cell types operate in the human brain to generate thoughts remains challenging.
+Our knowledge about the fine-scale electrophysiology of human brain circuits has principally been inferred from animal models. Unlike in animals, hitherto, the hardware and software tools for large-scale, high-fidelity depth recordings along the entire cortical depth remained unavailable in humans, limiting the understanding of brain processing in human health and disease. Before resection, neurosurgeons have direct access to the exposed brain circuit, offering the unique opportunity to directly measure electrophysiology signals and neuronal activity from the human cortex. Yet, despite this unique opportunity, understanding how different cell types operate in the human brain to generate thoughts remains challenging.
 
-The Anastassiou Lab uses biorealistic cellular models generated from in vitro human whole-cell recordings of morphologically 
-classified neurons to replicate and understand in vivo electrophysiology signals and study the dynamics of different cell 
-classes in the living functioning human brain. Such models recently revealed that the heartbeat affects human electrophysiology 
-recordings in a manner allowing us to distinguish between broad cell classes. Furthermore, the same approach revealed novel 
-separations between six cortical classes in the behaving rodent exhibiting distinct in vivo properties during behavior. In this 
-manner, the Anastassiou Lab is pioneering the way cellular properties are mapped to in vivo dynamics, and vice versa, using 
-high-performance computing platforms.
+We use high-performance computing to better understand cell types in the brain. For example, we use biorealistic cellular models generated from in vitro human whole-cell recordings of morphologically classified neurons to replicate and understand in vivo electrophysiology signals and study the dynamics of different cell classes in the living functioning human brain. Such models recently revealed that the heartbeat affects human electrophysiology recordings in a manner allowing us to distinguish between broad cell classes. The same approach revealed novel separations between six cortical classes in the behaving rodent exhibiting distinct in vivo properties during behavior. 
 
 ## Next-Generation Electrical Stimulation Technologies for Manipulating Human Cellular and Circuit Activity: Toward New Approaches to Treating Neurological and Neuropsychiatric Diseases
 
-Electrical stimulation (ES) has long been used in research and therapeutic approaches to ask questions about physiological brain 
-processing and as a means to intervene with pathological activity in neurological disorders (e.g., epilepsy, dementia and 
-Parkinson’s disease). However, the biophysical mechanisms underlying ES in the brain remain unclear. There remains a lack of 
-understanding about where, when and how to apply an extracellular field leading to conflicting outcomes regarding the efficacy of 
-ES to modulate high-level brain processing and differing neurological diseases. Moreover, ES protocols applied to the brain do so 
-without consideration for the remarkable diversity of cell types comprising neural circuits. This has significantly limited 
-application of ES in humans. The Anastassiou Lab looks at ways to render electric brain stimulation selective and controlled for 
-identified cell types in the intact. This work is done in collaboration with cellular biologists Soo Yeun Lee, PhD, at the 
-Allen Institute and clinicians in the Cedars-Sinai Department of Neurology, including Michele Tagliati, MD, the Caron and Steven 
-D. Broidy Chair in Movement Disorders.
+Electrical stimulation (ES) has long been used in research and therapeutic approaches to ask questions about physiological brain processing and as a means to intervene with pathological activity in neurological disorders (e.g., epilepsy, dementia and Parkinson’s disease). However, the biophysical mechanisms underlying ES in the brain remain unclear. There remains a lack of understanding about where, when and how to apply an extracellular field leading to conflicting outcomes regarding the efficacy of ES to modulate high-level brain processing and differing neurological diseases. Moreover, ES protocols applied to the brain do so without consideration for the remarkable diversity of cell types comprising neural circuits. This has significantly limited application of ES in humans. The Anastassiou Lab looks at ways to render electric brain stimulation selective and controlled for identified cell types in the intact. This work is done in collaboration with cellular biologists Soo Yeun Lee, PhD, at the Allen Institute and clinicians at Cedars-Sinai.
