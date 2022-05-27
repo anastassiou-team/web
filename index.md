@@ -9,6 +9,6 @@ To do so, we use multimodal cellular data (electrophysiology, anatomy, transcrip
 
 We are affiliated with the [Cedars-Sinai Neurosurgery Department](https://www.cedars-sinai.edu/research/departments-institutes/neurosurgery.html), [Neurology Department](https://www.cedars-sinai.edu/research/departments-institutes/neurology.html), [Center of Neural Sciences and Medicine](https://www.cedars-sinai.edu/research/areas/neural-science.html) and the [Regenerative Medicine Institute](https://www.cedars-sinai.edu/research/departments-institutes/regenerative-medicine.html).
 
-For more details about individual projects, see [research](about).
+For more details about individual projects, see [research](research).
 
 Have any questions about what we do? [We'd love to hear from you!](mailto:{{ site.email }})
