@@ -17,5 +17,5 @@ You can cite the project as:
 ## Contact us
 
 - Email: [{{ site.email }}](mailto:{{ site.email }})
-- Twitter: [@thecarpentries](https://twitter.com/thecarpentries)
+- Twitter:([@anastassiou_lab](https://twitter.com/anastassiou_lab))
 
