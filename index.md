@@ -1,8 +1,5 @@
 # Anastassiou Lab at Cedars-Sinai Medical Center
 
-## Description
-{{ site.description }}
-
 We study how the molecular and cellular composition of neurons translates to their phenotype and how these properties combine in brain circuits to produce function or, in the case of disease, dysfunction.
 
 To do so, we use multimodal cellular data (electrophysiology, anatomy, transcriptomics) and the development of state-of-the-art computational workflows (statistical learning, optimization and simulation) to understand cellular activity in behavior and disease. This work includes human brain tissue, both as a byproduct from surgery and from model systems such as human pluripotent stem cells. We also work clinicians to translate cellular and circuit findings to gain a better understanding of diseases such as epilepsy and Parkinson’s disease, as well as development of improved therapies.
