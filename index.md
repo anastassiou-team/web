@@ -10,4 +10,4 @@ We are affiliated with the [Cedars-Sinai Neurosurgery Department](https://www.ce
 
 For more details about individual projects, see [research](research).
 
-Have any questions about what we do? [We'd love to hear from you!](mailto:{{ site.email }})
+{% include footer.html %}
