@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # Anastassiou Lab at Cedars-Sinai Medical Center
 
 We study how the molecular and cellular composition of neurons translates to their phenotype and how these properties combine in brain circuits to produce function or, in the case of disease, dysfunction.
